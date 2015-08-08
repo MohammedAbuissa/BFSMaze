@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUORA</Machine>
+    <WindowsUser>Mohammed Assem</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1682b3f9-bd2c-4ea9-b5a3-b0e77c7998a5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\BFSMaze.exe">
+      <PackagePath>BFSMaze.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\BFSMaze.xr.xml">
+      <PackagePath>BFSMaze.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

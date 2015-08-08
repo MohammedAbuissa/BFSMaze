@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUORA</Machine>
+    <WindowsUser>Mohammed Assem</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1682b3f9-bd2c-4ea9-b5a3-b0e77c7998a5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3D692ABE3A86582C2348B909F1287CF9AF8469FEB8AE58319914586AF669F5A9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1682b3f9-bd2c-4ea9-b5a3-b0e77c7998a5_1.0.0.0_neutral__v428hjrq02w2t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1682b3f9-bd2c-4ea9-b5a3-b0e77c7998a5_v428hjrq02w2t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1682b3f9-bd2c-4ea9-b5a3-b0e77c7998a5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohammed Assem</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-09T22:21:26.274</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\BFSMaze.exe">
+      <PackagePath>BFSMaze.exe</PackagePath>
+      <Modified>2015-01-10T02:07:58.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-06T23:59:50.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-09T05:29:06.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\BFSMaze.xr.xml">
+      <PackagePath>BFSMaze.xr.xml</PackagePath>
+      <Modified>2015-01-09T04:54:16.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed Assem\Documents\Visual Studio 2013\Projects\BFSMaze\BFSMaze\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-09T22:21:26.102</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
